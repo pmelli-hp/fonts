@@ -1,13 +1,13 @@
 /* HP Icons */
 @font-face {
         font-family: 'HP Icons';
-        src:('https://github.com/pmelli-hp/fonts.github.io')
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_Bd.woff2',format('woff2'),
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_BdIt.woff2',format('woff2'),
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_It.woff2',format('woff2'),
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_Lt.woff2',format('woff2'),
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_LtIt.woff2',format('woff2'),
-		url('https://github.com/pmelli-hp/fonts/HPSimplified_W_Rg.woff2',format('woff2');
+        src:('https://pmelli-hp.github.io/fonts/')
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_Bd.woff2',format('woff2'),
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_BdIt.woff2',format('woff2'),
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_It.woff2',format('woff2'),
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_Lt.woff2',format('woff2'),
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_LtIt.woff2',format('woff2'),
+		url('https://pmelli-hp.github.io/fonts/HPSimplified_W_Rg.woff2',format('woff2');
         font-weight: normal;
         font-style: normal;
 }

@@ -1,8 +1,19 @@
 
 /* HPSimplified */
-@font-face {
-        font-family: "HPSimplifiedRg";
-        src:   url("https://pmelli-hp.github.io/fonts/HPSimplified_W_Rg.woff2") format("woff2");
-        font-weight: normal;
-        font-style: normal;
-}
+	@font-face {
+	        font-family: "HPSimplified";
+	        src:   url("https://pmelli-hp.github.io/fonts/HPSimplified_W_Bd.woff2") format("woff2"),
+
+	               url("https://pmelli-hp.github.io/fonts/HPSimplified_W_BdIt.woff2") format("woff2"),
+
+	               url("https://pmelli-hp.github.io/fonts/HPSimplified_W_It.woff2") format("woff2"),
+
+	               url("https://pmelli-hp.github.io/fonts/HPSimplified_W_Lt.woff2") format("woff2"),
+
+	               url("https://pmelli-hp.github.io/fonts/HPSimplified_W_LtIt.woff2") format("woff2"),
+
+	               url("https://pmelli-hp.github.io/fonts/HPSimplified_W_Rg.woff2") format("woff2");
+
+	        font-weight: normal;
+	        font-style: normal;
+	}
